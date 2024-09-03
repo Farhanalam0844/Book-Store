@@ -1,0 +1,8 @@
+# Node modules in both client and server
+client/node_modules/
+server/node_modules/
+
+# Optional: Ignore other common directories or files
+.env
+dist/
+build/
